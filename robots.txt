@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cary-north-carolina.mobiledevelopers.app/sitemap.xml
